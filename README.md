@@ -16,11 +16,11 @@ This Python script performs data visualization and analysis on a dataset loaded 
 
 ## Technologies
 Project is created with:
-*Python version: 3.11.11
-*Numpy version: 1.26.4
-*Matplotlib verion: 3.10.0
-*Sympy version: 1.13.1
-*Google Colab
+* Python version: 3.11.11
+* Numpy version: 1.26.4
+* Matplotlib verion: 3.10.0
+* Sympy version: 1.13.1
+* Google Colab
 
 ## Setup
 Copy code from project.py to your colab notebook file, add fme.txt to your local sesion files.
