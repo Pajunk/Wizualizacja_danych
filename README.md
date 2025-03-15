@@ -1,8 +1,29 @@
 # Data Visualization
 
-## Overview
+Project for visualization and calculations on three-dimensional data
+
+## Table of Contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [How to run app](#how-to-run-app)
+* [Project status](#project-status)
+
+## General Info
 
 This Python script performs data visualization and analysis on a dataset loaded from `fme.txt`. It processes 3D data points, creates visual representations, and computes various statistical properties, including interpolation, approximation, surface area calculation, and numerical integration.
+
+## Technologies
+Project is created with:
+*Python version: 3.11.11
+*Numpy version: 1.26.4
+*Matplotlib verion: 3.10.0
+*Sympy version: 1.13.1
+*Google Colab
+
+## Setup
+Copy code from project.py to your colab notebook file, add fme.txt to your local sesion files.
 
 ## Features
 
@@ -19,9 +40,8 @@ This Python script performs data visualization and analysis on a dataset loaded 
 - **Partial Derivatives:** Computes and visualizes first-order derivatives.
 - **Monotonicity Analysis:** Determines intervals where the function is increasing or decreasing.
 
-## Dependencies
+## How to run app
+ Press button on upper left next to sript code, or press combination CTRL+ENTER then scroll down to resoults
 
-Ensure you have the following Python libraries installed:
-
-```bash
-pip install numpy matplotlib sympy scipy
+## Project status
+Completed.
